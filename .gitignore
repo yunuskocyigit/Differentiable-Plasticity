@@ -1,5 +1,9 @@
 #Download data from https://www.kaggle.com/alexattia/the-simpsons-characters-dataset and place in this folder
 data/*
 
+# if you use the script, the python code will reside in this directory
+# remember to update the notebooks
+code/*
+
 #Do not want to include manual safe file
 notebooks/.ipynb_checkpoints
